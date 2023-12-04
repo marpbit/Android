@@ -1,0 +1,75 @@
+:root {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #cad2c5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+div {
+    padding: 40px;
+}
+
+.topo {
+    background-color: #84a98c;
+    text-align: center;
+}
+
+.acesso {
+    background-color: #52796f;
+    display: flex;
+    justify-content: space-between;
+}
+
+.video {
+    text-align: center;
+    background-color: #a0bcb5;
+}
+
+.historia {
+    background-color: #475a5c;
+    text-align: justify;
+}
+
+.challenge {
+    background-color: #354d40;
+    text-align: justify;
+}
+
+.desenvolvimento {
+    background-color: #4d908e;
+    text-align: justify;
+}
+
+.impacto {
+    background-color: #69766f;
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border: 5px solid black;
+    border-collapse: collapse;
+    text-align: justify;
+    table-layout: fixed;
+
+}
+
+td {
+    padding: 20px;
+    border: 1px solid black;
+
+}
+
+th {
+    background-color: #858f8a;
+    color: black;
+    padding: 20px;
+    border: 1px solid black;
+}
